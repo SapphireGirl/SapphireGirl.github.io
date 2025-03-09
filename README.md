@@ -1,9 +1,8 @@
 # SapphireGirl
-![Image background](/SapphireGirl.github.io/assets/StandingPoppies.jpg)
+![Image background](https://github.com/SapphireGirl/SapphireGirl.github.io/blob/4fb6915c7ea35e8ee994f4b5493af3f8629f22dc/assets/images/StandingPoppies.jpg)
 
 ## Hi, I am Justine Alires 👩‍💻
 ## Writing Software in many languages
-
 ## Resume
 [Link text](linkurl)
 
