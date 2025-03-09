@@ -1,10 +1,23 @@
 body {
-    background-image: url('docs\assets\images\SGBannerVector_WPF.jpg');
+    background-image: url('../images/SGBannerVector_WPF.jpg');
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
   }
   
   div {
     background-color: rgba(255, 255, 255, 0.35)   /* 35% opaque white */;
     padding: 0.25em;
   }
+
+  .bottom-div {
+    margin-top: auto;
+    background-color: rgba(241, 241, 241, 0.5); /* 50% opaque light gray */
+    padding: 10px;
+    text-align: center;
+    font-size: 1.5em; /* Adjust the size as needed */
+}
