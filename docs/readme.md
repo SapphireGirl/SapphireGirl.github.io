@@ -3,15 +3,21 @@ Justine Alires's profile
 --->
 
 <style>
-    body {
+    /* body {
         background-image: url('./assets/images/SGBannerVector_WPF.jpg');
         background-repeat: no-repeat;
         background-size: cover;
         color: black;
+    } */
+    .bottom-div {
+    margin-top: auto;
+    background-color: rgba(241, 241, 241, 0.5); /* 50% opaque light gray */
+    padding: 10px;
+    text-align: center;
+    font-size: 1.5em; /* Adjust the size as needed */
     }
 </style>
-
-# Justine Alires
+<img src="./assets/images/SGBannerVector_WPF.jpg" width="667" alt="Logo">
 
 ## Front End Technologies
 - HTML5
@@ -26,10 +32,11 @@ Justine Alires's profile
 - AWS S3
 - AWS DynamoDB
 
-## Programming languages 
+## Server Side Programming languages 
 - .NET
 
 ## Databases Technologies
 - SQLServer  
 - DynamoDB
 
+</Mark>
