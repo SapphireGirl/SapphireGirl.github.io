@@ -14,10 +14,10 @@ body {
     padding: 0.25em;
   }
 
-/* .bottom-div {
+.bottom-div {
     margin-top: auto;
-    background-color: rgba(241, 241, 241, 0.5); 
+    background-color: rgba(241, 241, 241, 0.5); /* 50% opaque light gray */
     padding: 10px;
     text-align: center;
-    font-size: 1.5em; 
-} */
+    font-size: 1.5em; /* Adjust the size as needed */
+}
