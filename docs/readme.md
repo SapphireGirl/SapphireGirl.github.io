@@ -24,7 +24,7 @@ Justine Alires's profile
 - CSS3
 - JavaScript
 - JQuery
-- GitHub
+
 ## AWS Services
 - AWS Lambda
 - AWS CloudFormation
@@ -39,4 +39,3 @@ Justine Alires's profile
 - SQLServer  
 - DynamoDB
 
-</Mark>
